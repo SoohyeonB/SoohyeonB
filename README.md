@@ -1,16 +1,11 @@
 ### Hi there 👋
-- 🧑🏻‍💻이화여대 컴퓨터공학과 19학번 🦥
+- 🧑🏻‍💻이화여대 컴퓨터공학과 🦥
 - Ewha KING :  `2020.04~`
 - Google Developer Student Club : `2021.09~`
 
 <br>
 
-- 🚴🏻 자전거 라이딩
 
-- ☕ 피대신 흐르는 아메리카노
-
-- 🤧환절기가 너무 힘든 비염러
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoohyeonB)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 <!--
