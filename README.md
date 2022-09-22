@@ -3,6 +3,7 @@
 - Ewha KING :  `2020.04~`
 - Google Developer Student Club : `2021.09~`
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoohyeonB&show_icons=true&theme=vision-friendly-dark)
 <br>
 
 
