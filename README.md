@@ -1,9 +1,10 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoohyeonB&show_icons=true&theme=vision-friendly-dark)
 - 🧑🏻‍💻이화여대 컴퓨터공학과 🦥
 - Ewha KING :  `2020.04~`
 - Google Developer Student Club : `2021.09~`
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoohyeonB&show_icons=true&theme=vision-friendly-dark)
+
 <br>
 
 
