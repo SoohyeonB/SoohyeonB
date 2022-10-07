@@ -1,5 +1,8 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoohyeonB&show_icons=true&theme=vision-friendly-dark)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=colinee2cm)](https://solved.ac/colinee2cm/)
+
 - 🧑🏻‍💻이화여대 컴퓨터공학과 🦥
 - Ewha KING :  `2020.04~`
 - Google Developer Student Club : `2021.09~`
