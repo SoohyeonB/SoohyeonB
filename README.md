@@ -3,7 +3,7 @@
 
 
 
-- 🧑🏻‍💻이화여대 컴퓨터공학과 🦥
+- 🧑🏻‍💻Ewha Womans University, Computer Science & Engineering 🦥
 - Ewha KING :  `2020.04~`
 - Google Developer Student Club : `2021.09~`
 
