@@ -1,24 +1,25 @@
-### Hi there 👋
-
-
+# Hi, I'm Soohyeon👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoohyeonB&show_icons=true&theme=vision-friendly-dark)
 
 - 🌱 I’m currently learning Machine learning
-- 🧑🏻‍💻Ewha Womans University, Computer Science & Engineering 
-- 🦥 Google Developer Student Club : `09.2021~08.2022`
-- Game development club, Ewha KING :  `04.2020~08.2021`
+- 🧑🏻‍💻 I’m studying in Ewha Womans University, Computer Science & Engineering
+- 🏖  Exchange Student in IE University, Madrid, Spain `01.2023 ~`
+- 🦥 Google Developer Student Club : `09.2021 ~ 08.2022`
+- 👾 Game Development Club, Ewha KING :  `04.2020 ~ 08.2021`
 
 ## Projects worked in a position of ...
 ### Backend
-- https://github.com/chevita-2022 `07.2022~09.2022`
+- https://github.com/chevita-2022 `07.2022 ~ 09.2022`
 
 ### Machine learning, Data Engineering
-- https://github.com/orgs/Workspace-Recommendation-Engine/repositories `03.2023~04.2023`
-- https://github.com/Leafy-Your-new-buddy `03.2021~11.2021`
+- https://github.com/orgs/Workspace-Recommendation-Engine/repositories `03.2023 ~ 04.2023`
+- https://github.com/Leafy-Your-new-buddy `03.2021 ~ 11.2021`
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoohyeonB&show_icons=true&theme=vision-friendly-dark)
+
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=colinee2cm)](https://solved.ac/colinee2cm/)
-<br>
+
 
 
 
