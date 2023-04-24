@@ -1,11 +1,14 @@
 ### Hi there 👋
+
+
+
+🌱 I’m currently learning Machine learning
+🧑🏻‍💻Ewha Womans University, Computer Science & Engineering 🦥
+
+Google Developer Student Club : `2021.09~2022.8`
+Game development club, Ewha KING :  `2020.04~2021.02`
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoohyeonB&show_icons=true&theme=vision-friendly-dark)
-
-
-
-- 🧑🏻‍💻Ewha Womans University, Computer Science & Engineering 🦥
-- Ewha KING :  `2020.04~`
-- Google Developer Student Club : `2021.09~`
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=colinee2cm)](https://solved.ac/colinee2cm/)
 <br>
