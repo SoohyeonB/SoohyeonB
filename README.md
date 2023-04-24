@@ -4,8 +4,16 @@
 
 - 🌱 I’m currently learning Machine learning
 - 🧑🏻‍💻Ewha Womans University, Computer Science & Engineering 
-- 🦥 Google Developer Student Club : `2021.09~2022.8`
-- Game development club, Ewha KING :  `2020.04~2021.02`
+- 🦥 Google Developer Student Club : `09.2021~08.2022`
+- Game development club, Ewha KING :  `04.2020~08.2021`
+
+## Projects worked in a position of ...
+### Backend
+- https://github.com/chevita-2022 `07.2022~09.2022`
+
+### Machine learning, Data Engineering
+- https://github.com/orgs/Workspace-Recommendation-Engine/repositories `03.2023~04.2023`
+- https://github.com/Leafy-Your-new-buddy `03.2021~11.2021`
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoohyeonB&show_icons=true&theme=vision-friendly-dark)
 
