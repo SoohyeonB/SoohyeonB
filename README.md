@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoohyeonB&show_icons=true&theme=vision-friendly-dark)
 
 - 🌱 I’m currently learning Machine learning
-- 🧑🏻‍💻 I’m studying in Ewha Womans University, Computer Science & Engineering
+- 🧑🏻‍💻 Studying in Ewha Womans University, Computer Science & Engineering
 - 🏖  Exchange Student in IE University, Madrid, Spain `01.2023 ~`
 - 🦥 Google Developer Student Club : `09.2021 ~ 08.2022`
 - 👾 Game Development Club, Ewha KING :  `04.2020 ~ 08.2021`
