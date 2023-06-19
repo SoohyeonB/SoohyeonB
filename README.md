@@ -1,10 +1,11 @@
 # Hi, I'm Soohyeon👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoohyeonB&show_icons=true&theme=vision-friendly-dark)
 
-- 🌱 I’m currently learning Machine learning
-- 🧑🏻‍💻 Studying in Ewha Womans University, Computer Science & Engineering
+- 🌱 Main interest:  Machine learning
+- 🧑🏻‍💻 Ewha Womans University, Computer Science & Engineering `03.2019 ~`
 - 🏖  Exchange Student in IE University, Madrid, Spain `01.2023 ~ 05.2023`
-- 🦥 Google Developer Student Club : `09.2021 ~ 08.2022`
+- 🦥 Machine learning club, Euron : `03.2023 ~ `
+- 🦥 Google Developer Student Club, GDSC : `09.2021 ~ 08.2022`
 - 👾 Game Development Club, Ewha KING :  `04.2020 ~ 08.2021`
 
 ## Projects worked in a position of ...
