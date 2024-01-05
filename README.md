@@ -1,7 +1,6 @@
 # Hi, I'm Soohyeon👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoohyeonB&show_icons=true&theme=vision-friendly-dark)
 
-- 🌱 Main interest:  Machine learning
+- 🌱 Main interest: NLP, LLM
 - 🧑🏻‍💻 Ewha Womans University, Computer Science & Engineering `03.2019 ~`
 - 🏖  Exchange Student in IE University, Madrid, Spain `01.2023 ~ 05.2023`
 - 🦥 Machine learning club, Euron : `03.2023 ~ `
@@ -9,14 +8,13 @@
 - 👾 Game Development Club, Ewha KING :  `04.2020 ~ 08.2021`
 
 ## Projects worked in a position of ...
-### Backend
-- https://github.com/chevita-2022 `07.2022 ~ 09.2022`
-
 ### Machine learning, Data Engineering
 - https://github.com/orgs/Workspace-Recommendation-Engine/repositories `03.2023 ~ 04.2023`
 - https://github.com/Leafy-Your-new-buddy `03.2021 ~ 11.2021`
 - https://github.com/Midstart/Midstart_repo `07.2021`
-
+  
+### Backend
+- https://github.com/chevita-2022 `07.2022 ~ 09.2022`
 
 
 
