@@ -7,6 +7,12 @@
 - 🦥 Google Developer Student Club, GDSC : `09.2021 ~ 08.2022`
 - 👾 Game Development Club, Ewha KING :  `04.2020 ~ 08.2021`
 
+## Contest, Awards
+- Dacon Fake Audio Recognition Competition: Top 11%, 2024.07
+  https://dacon.io/competitions/official/236253/overview/description 
+- Dacon Development of a Q&A AI Model for Wallpaper Domain: Top 7%, 2024.03
+  https://dacon.io/competitions/official/236216/overview/description
+
 ## Projects worked in a position of ...
 ### ML Engineer
 - https://github.com/orgs/Workspace-Recommendation-Engine/repositories `03.2023 ~ 04.2023`
