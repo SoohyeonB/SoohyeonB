@@ -9,7 +9,8 @@
 
 ## Contest, Awards
 - Dacon Fake Audio Recognition Competition: Top 11%, 2024.07
-  - https://dacon.io/competitions/official/236253/overview/description 
+  - https://dacon.io/competitions/official/236253/overview/description
+  - https://github.com/SoohyeonB/FakeVoiceDetection_BBBig
 - Dacon Development of a Q&A AI Model for Wallpaper Domain: Top 7%, 2024.03
   - https://dacon.io/competitions/official/236216/overview/description
 
