@@ -1,8 +1,8 @@
 # Hi, I'm Su-Hyeon👋
 
 - 🌱 Main interest: Multimodal, Efficient Learning, Edge AI
-- 🧑🏻‍💻 Ewha Womans University, Artificial Intelligence `03.2025 ~02.2027`
-- 🧑🏻‍💻 Ewha Womans University, Computer Science & Engineering `03.2019 ~02.2025`
+- 🧑🏻‍💻 Ewha Womans University, Artificial Intelligence `03.2025 ~ 02.2027(expected)`
+- 🧑🏻‍💻 Ewha Womans University, Computer Science & Engineering `03.2019 ~ 02.2025`
 - 🏖  Exchange Student in IE University, Madrid, Spain `01.2023 ~ 05.2023`
 - 🦥 Machine learning club, Euron : `09.2023 ~ `
 - 🦥 Google Developer Student Club, GDSC : `09.2021 ~ 08.2022`
